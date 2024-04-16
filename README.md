@@ -21,4 +21,5 @@ What skills from this project will be particularly transferable to other project
 - Thermostat: My ability to bring all of my skills together to create an application that is running smoothly is something any dev should be able to bring to the table. Specifically, all of these libraries were new to me, so gaining understanding enough to implement is a skill I will use throughout my career.  
 
 How did you make this project maintainable, readable, and adaptable?
+
 For both projects, I maintained a standard throughout of commented and well-documented code. The programs were also free of errors and built successfully in CCS. Due to the TI board being so customizable, the code I implemented can be used for a number of other applications. 
