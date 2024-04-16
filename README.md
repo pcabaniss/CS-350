@@ -13,6 +13,7 @@ Where could you improve?
 - Thermostat: I would like to understand the process of reverse engineering the program using the disassembled code while debugging. I think it would lend a lot of insight to the processes and even show where impronments could be made. 
 
 What tools and/or resources are you adding to your support network?
+
 I am definitely adding the Code Composer Studio (CCS) and the flash application as well. These applications helped me tremendously throughout all of my developments in this course. It is my dream to work in robotics, so I will be using this software even after this course is done. 
   
 What skills from this project will be particularly transferable to other projects and/or course work?
